@@ -4,10 +4,6 @@ ruby install:
 
 - https://rubyinstaller.org/downloads/
 
-```
-npm i
-```
-
 install sass for terminal:
 
 ```

@@ -102,6 +102,7 @@ body {
                 color: #282728;
                 font-size: 14px;
                 height: calc(2.5em + .75rem + 2px);
+                box-shadow: none;
              
             }
 
@@ -537,6 +538,7 @@ body {
         width: 14.17em;
         text-align: left;
         align-self: center;
+        box-shadow: none!important;
     }
 
     .dropdown-menu.show {

@@ -1,4 +1,4 @@
-## 🚀 Kurulum
+## 🚀 Setup for Windows
 
 ruby install:
 
